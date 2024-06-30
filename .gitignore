@@ -1,0 +1,13 @@
+/venv
+.env
+.venv
+venv/
+venv
+/metadatos
+/.ipynb_checkpoints
+fin.py
+/conjunto_de_datos
+conjunto_de_datos/
+.csv
+/.vscode
+.vscode
